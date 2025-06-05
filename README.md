@@ -1,0 +1,1 @@
+[Install](https://raw.githubusercontent.com/beive60/gemini_hotkeys/main/gemini_hotkeys.user.js)
